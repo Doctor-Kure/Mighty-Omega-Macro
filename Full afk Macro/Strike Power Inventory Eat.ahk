@@ -1,5 +1,5 @@
 
-InputBox, slot, how much food slot you have?
+InputBox, 1
 if ErrorLevel = 1
 {	
 	ExitApp
